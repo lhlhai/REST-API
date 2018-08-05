@@ -1,0 +1,19 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Practice about REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhlhai/REST-API.git"
+  },
+  "author": "hai le",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhlhai/REST-API/issues"
+  },
+  "homepage": "https://github.com/lhlhai/REST-API#readme"
+}
