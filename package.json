@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lhlhai/REST-API/issues"
   },
-  "homepage": "https://github.com/lhlhai/REST-API#readme"
+  "homepage": "https://github.com/lhlhai/REST-API#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
